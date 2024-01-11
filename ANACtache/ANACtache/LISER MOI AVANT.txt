@@ -1,0 +1,18 @@
+CONFIG MYSQL /PHPMYADMIN
+USER:  root
+MOT DE PASSE: eth@n@2018
+
+
+
+Identifiants pour se connecter au logiciel ANACTACHE
+
+Login : 0000
+
+Mot de passe: 1234
+
+Identifiant pour la config du compte gmail qui va se charger d'envoyer les emails de notifications aux personnel
+
+COMPTE @GMAIL: siganac.anacgabon@gmail.com
+
+
+MOT DE PASSE COMPTE @GMAIL  : *Useranac123*
